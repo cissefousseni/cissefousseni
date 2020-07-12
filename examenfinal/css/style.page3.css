@@ -1,0 +1,40 @@
+/**
+cissefousseni
+style.css
+
+ **/
+
+
+body{
+    background-image: url("/images/f5749276aea5e42058cee9325a80601d.jpg");
+    background-repeat:no-repeat;
+    background-position: top;
+    margin: auto;
+
+}
+
+@font-face {
+    font-family: maPolice;
+    src: url(/font/jacob_and_son);
+}
+
+
+body {
+    font-family: maPolice;
+    font-size: 24px;
+}
+
+.parallax {
+    /* L’image du Parallax */
+    background-image: url("../images/982e1e0e40f7ff046e9eeaf9e7747abc.jpg");
+    /* L’hauteur du Parallax */
+    min-height: 800px;
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+

@@ -1,0 +1,99 @@
+/**
+cissefousseni
+style.css
+
+ **/
+
+
+.banniere{
+    background-image: url("/images/3c0b6449e74a40866c4e98631e4ce2d8.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 2rem;
+    width: 50%;
+}
+
+
+.banniere{
+    background-image: url("/images/df8a83c13f5dcee654c50799b801d5b5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 2rem;
+    height: 10%;
+}
+
+
+
+
+@font-face {
+    font-family: maPolice;
+    src: url(/font/jacob_and_son);
+    src: url(/font/jacob_and_son);
+}
+body {
+    font-family: maPolice;
+    font-size: 24px;
+}
+
+
+hr{
+margin-bottom:30px;
+margin-top:30px;
+max-width: 50px;
+border-width: 3px;
+border-color: #f05f40;
+}
+
+.banniere{
+    width: 100%;
+}
+p{
+
+    color:black;
+
+}
+
+
+.topnav {
+    background-color:gray;
+    overflow: hidden;
+}
+
+.topnav a {
+
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;}
+
+img{width: 800rem;}
+.parallax{
+background-image: url("../images/voyage de lux.jpg");
+min-height: 50rem;
+background-attachment: fixed;
+background-position:center;
+background-repeat: no-repeat;
+background-size:cover;
+}
+
+
+
+
+
+.
+
